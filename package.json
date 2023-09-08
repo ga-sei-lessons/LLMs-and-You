@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-	"docs": "jsdoc -c ./config/jsdoc.config.json",
+    "docs": "jsdoc -c ./config/jsdoc.config.json",
     "test": "jest"
   },
   "keywords": [],
