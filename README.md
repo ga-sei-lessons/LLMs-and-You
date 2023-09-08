@@ -1,4 +1,5 @@
-# LLMs and You or How I Learned To Stop Worrying And Love The Impendending Takeover By Our Future AI Overlords
+# LLMs and You
+### or How I Learned To Stop Worrying And Love The Impendending Takeover By Our Future AI Overlords
 
 ## Getting Started
 
