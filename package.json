@@ -1,0 +1,19 @@
+{
+  "name": "llm-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+	"docs": "jsdoc -c ./config/jsdoc.config.json",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.6.4"
+  },
+  "devDependencies": {
+    "jsdoc": "^4.0.2"
+  }
+}
