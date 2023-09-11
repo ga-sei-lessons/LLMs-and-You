@@ -85,6 +85,6 @@ Do not respond with any text other than jsdoc comments and the associated functi
 ## Resources
 
 * [GA Slidedecks](./slide-decks)
-* debugging code jupiter notebook
+* [Debugging code jupytr nodtbook activity](./slide-decks/Leveraging_Generative_AI_for_Software_Engineers/(SE)_Debugging_Code_With_ChatGPT.ipynb)
 * [video demo](https://www.youtube.com/watch?v=q2A-MkGjvmI&ab_channel=Bisqwit) of CGPT's shortcomings.
 
